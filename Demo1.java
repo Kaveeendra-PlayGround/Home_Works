@@ -9,7 +9,7 @@ public class Demo1{
             +
 
         
-
+*/
         for (int i = 0; i < 5; i++) {
 
             for (int j = 0; j < (5-i); j++) {
@@ -19,7 +19,7 @@ public class Demo1{
             }
             System.out.println();
             
-        } */
+        } 
 
 
 
